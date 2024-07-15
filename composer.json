@@ -1,0 +1,15 @@
+{
+    "name": "amirhasan/pofirm",
+    "description": "a freamwork for php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "amirhasanGhafori"
+        }
+    ],
+    "require": {}
+}
