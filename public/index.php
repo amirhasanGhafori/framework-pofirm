@@ -6,14 +6,14 @@ use app\core\Router;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-$app = new Application();
+$app = new Application(dirname(__DIR__));
 
-$app->router->get('/admin/dashboard',function (){
-    return "dashboard panel";
-});
+$app->router->get('/','welcome');
 
-$app->router->get('/instructor/dashboard',function (){
-    return "instructor panel";
+$app->router->get('/dashboard','dashboard');
+
+$app->router->post('/save',function (){
+    return "save route";
 });
 
 
