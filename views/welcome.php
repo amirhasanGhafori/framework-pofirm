@@ -2,4 +2,4 @@
 
 ?>
 
-<h1>Welcome Page</h1>
+<h1><?php echo $title; ?></h1>
