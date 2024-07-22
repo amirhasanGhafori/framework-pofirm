@@ -3,6 +3,7 @@
 namespace app\controllers;
 
 use app\core\Application;
+use app\core\Request;
 
 class SiteController extends Controller
 {
@@ -22,6 +23,12 @@ class SiteController extends Controller
     public function handelContact()
     {
         return "Handeling Contact Data.";
+    }
+
+    public function saveForm(Request $request)
+    {
+        var_dump($request->getBody());
+        return "Save Form Current";
     }
 
 }
