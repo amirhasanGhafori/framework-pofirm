@@ -1,5 +1,5 @@
 
-![Logo](https://media.licdn.com/dms/image/D4D03AQFmTvAMus8esw/profile-displayphoto-shrink_800_800/0/1716047778202?e=1727308800&v=beta&t=Ip9uF59VrItX6ezAYWEi1aPEbQSNA16z3QIaB9NGGsQ)
+![Logo](https://media.licdn.com/dms/image/D4D0BAQGKDn3q8SD8AA/company-logo_100_100/0/1721659382173?e=1729728000&v=beta&t=EhYE3UqasQbACYEI2txGlHQoFD1N10Ggkb--gFkoyv4)
 
 
 # POFIRM is Scalable And Fast
